@@ -283,9 +283,9 @@
 /I "Editor/SceneDepthPickerMode/Public"
 /I "../Intermediate/Build/Win64/UnrealEditor/Inc/AnimationEditMode/UHT"
 /I "Editor/AnimationEditMode/Public"
-/I "C:/UnrealProjects/ComputerVision/Intermediate/Build/Win64/UnrealEditor/Inc/ComputerVision/UHT"
-/I "C:/UnrealProjects/ComputerVision/Source"
-/I "C:/UnrealProjects/ComputerVision/Intermediate/Build/Win64/x64/ComputerVisionEditor/Development/UnrealEd"
+/I "C:/Users/MSİ/Documents/GitHub/Unreal-MediaPipe-Control/ComputerVision/Intermediate/Build/Win64/UnrealEditor/Inc/ComputerVision/UHT"
+/I "C:/Users/MSİ/Documents/GitHub/Unreal-MediaPipe-Control/ComputerVision/Source"
+/I "C:/Users/MSİ/Documents/GitHub/Unreal-MediaPipe-Control/ComputerVision/Intermediate/Build/Win64/x64/ComputerVisionEditor/Development/UnrealEd"
 /external:W0
 /external:I "ThirdParty/GuidelinesSupportLibrary/GSL-1144/include"
 /external:I "ThirdParty/AtomicQueue"

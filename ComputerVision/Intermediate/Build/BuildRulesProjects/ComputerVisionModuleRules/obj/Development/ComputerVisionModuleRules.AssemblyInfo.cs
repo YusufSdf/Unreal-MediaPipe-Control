@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ComputerVisionModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e1d2badb36d8363f20dc73564bc40f423d67cea")]
 [assembly: System.Reflection.AssemblyProductAttribute("ComputerVisionModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ComputerVisionModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -36,12 +36,12 @@
 /FUNCTIONPADMIN:6
 /NOIMPLIB
 /NOEXP
-"C:/UnrealProjects/ComputerVision/Intermediate/Build/Win64/x64/ComputerVisionEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
-"C:/UnrealProjects/ComputerVision/Intermediate/Build/Win64/x64/UnrealEditor/Development/ComputerVision/Module.ComputerVision.gen.cpp.obj"
-"C:/UnrealProjects/ComputerVision/Intermediate/Build/Win64/x64/UnrealEditor/Development/ComputerVision/ComputerVision.cpp.obj"
-"C:/UnrealProjects/ComputerVision/Intermediate/Build/Win64/x64/UnrealEditor/Development/ComputerVision/HandTrackReceiverComponent.cpp.obj"
-"C:/UnrealProjects/ComputerVision/Intermediate/Build/Win64/x64/UnrealEditor/Development/ComputerVision/PerModuleInline.gen.cpp.obj"
-"C:/UnrealProjects/ComputerVision/Intermediate/Build/Win64/x64/UnrealEditor/Development/ComputerVision/Default.rc2.res"
+"C:/Users/MSİ/Documents/GitHub/Unreal-MediaPipe-Control/ComputerVision/Intermediate/Build/Win64/x64/ComputerVisionEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/MSİ/Documents/GitHub/Unreal-MediaPipe-Control/ComputerVision/Intermediate/Build/Win64/x64/UnrealEditor/Development/ComputerVision/Module.ComputerVision.gen.cpp.obj"
+"C:/Users/MSİ/Documents/GitHub/Unreal-MediaPipe-Control/ComputerVision/Intermediate/Build/Win64/x64/UnrealEditor/Development/ComputerVision/ComputerVision.cpp.obj"
+"C:/Users/MSİ/Documents/GitHub/Unreal-MediaPipe-Control/ComputerVision/Intermediate/Build/Win64/x64/UnrealEditor/Development/ComputerVision/HandTrackReceiverComponent.cpp.obj"
+"C:/Users/MSİ/Documents/GitHub/Unreal-MediaPipe-Control/ComputerVision/Intermediate/Build/Win64/x64/UnrealEditor/Development/ComputerVision/PerModuleInline.gen.cpp.obj"
+"C:/Users/MSİ/Documents/GitHub/Unreal-MediaPipe-Control/ComputerVision/Intermediate/Build/Win64/x64/UnrealEditor/Development/ComputerVision/Default.rc2.res"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/Engine/UnrealEditor-Engine.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/Core/UnrealEditor-Core.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/CoreUObject/UnrealEditor-CoreUObject.lib"
@@ -75,6 +75,6 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:/UnrealProjects/ComputerVision/Binaries/Win64/UnrealEditor-ComputerVision.dll"
-/PDB:"C:/UnrealProjects/ComputerVision/Binaries/Win64/UnrealEditor-ComputerVision.pdb"
+/OUT:"C:/Users/MSİ/Documents/GitHub/Unreal-MediaPipe-Control/ComputerVision/Binaries/Win64/UnrealEditor-ComputerVision.dll"
+/PDB:"C:/Users/MSİ/Documents/GitHub/Unreal-MediaPipe-Control/ComputerVision/Binaries/Win64/UnrealEditor-ComputerVision.pdb"
 /ignore:4078

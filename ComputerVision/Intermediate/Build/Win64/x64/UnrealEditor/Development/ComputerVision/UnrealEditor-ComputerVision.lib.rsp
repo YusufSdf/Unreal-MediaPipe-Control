@@ -6,10 +6,10 @@
 /NAME:"UnrealEditor-ComputerVision.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:/UnrealProjects/ComputerVision/Intermediate/Build/Win64/x64/ComputerVisionEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
-"C:/UnrealProjects/ComputerVision/Intermediate/Build/Win64/x64/UnrealEditor/Development/ComputerVision/Module.ComputerVision.gen.cpp.obj"
-"C:/UnrealProjects/ComputerVision/Intermediate/Build/Win64/x64/UnrealEditor/Development/ComputerVision/ComputerVision.cpp.obj"
-"C:/UnrealProjects/ComputerVision/Intermediate/Build/Win64/x64/UnrealEditor/Development/ComputerVision/HandTrackReceiverComponent.cpp.obj"
-"C:/UnrealProjects/ComputerVision/Intermediate/Build/Win64/x64/UnrealEditor/Development/ComputerVision/PerModuleInline.gen.cpp.obj"
-"C:/UnrealProjects/ComputerVision/Intermediate/Build/Win64/x64/UnrealEditor/Development/ComputerVision/Default.rc2.res"
-/OUT:"C:/UnrealProjects/ComputerVision/Intermediate/Build/Win64/x64/UnrealEditor/Development/ComputerVision/UnrealEditor-ComputerVision.lib"
+"C:/Users/MSİ/Documents/GitHub/Unreal-MediaPipe-Control/ComputerVision/Intermediate/Build/Win64/x64/ComputerVisionEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/MSİ/Documents/GitHub/Unreal-MediaPipe-Control/ComputerVision/Intermediate/Build/Win64/x64/UnrealEditor/Development/ComputerVision/Module.ComputerVision.gen.cpp.obj"
+"C:/Users/MSİ/Documents/GitHub/Unreal-MediaPipe-Control/ComputerVision/Intermediate/Build/Win64/x64/UnrealEditor/Development/ComputerVision/ComputerVision.cpp.obj"
+"C:/Users/MSİ/Documents/GitHub/Unreal-MediaPipe-Control/ComputerVision/Intermediate/Build/Win64/x64/UnrealEditor/Development/ComputerVision/HandTrackReceiverComponent.cpp.obj"
+"C:/Users/MSİ/Documents/GitHub/Unreal-MediaPipe-Control/ComputerVision/Intermediate/Build/Win64/x64/UnrealEditor/Development/ComputerVision/PerModuleInline.gen.cpp.obj"
+"C:/Users/MSİ/Documents/GitHub/Unreal-MediaPipe-Control/ComputerVision/Intermediate/Build/Win64/x64/UnrealEditor/Development/ComputerVision/Default.rc2.res"
+/OUT:"C:/Users/MSİ/Documents/GitHub/Unreal-MediaPipe-Control/ComputerVision/Intermediate/Build/Win64/x64/UnrealEditor/Development/ComputerVision/UnrealEditor-ComputerVision.lib"

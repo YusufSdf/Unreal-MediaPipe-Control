@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\UnrealProjects\\ComputerVision\\Source\\ComputerVision\\ComputerVision.Build.cs",
-		"C:\\UnrealProjects\\ComputerVision\\Source\\ComputerVision.Target.cs",
-		"C:\\UnrealProjects\\ComputerVision\\Source\\ComputerVisionEditor.Target.cs"
+		"C:\\Users\\MSİ\\Documents\\GitHub\\Unreal-MediaPipe-Control\\ComputerVision\\Source\\ComputerVision\\ComputerVision.Build.cs",
+		"C:\\Users\\MSİ\\Documents\\GitHub\\Unreal-MediaPipe-Control\\ComputerVision\\Source\\ComputerVision.Target.cs",
+		"C:\\Users\\MSİ\\Documents\\GitHub\\Unreal-MediaPipe-Control\\ComputerVision\\Source\\ComputerVisionEditor.Target.cs"
 	],
 	"EngineVersion": "5.7.4"
 }

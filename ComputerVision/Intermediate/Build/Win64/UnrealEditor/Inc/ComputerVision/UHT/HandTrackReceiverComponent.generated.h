@@ -17,7 +17,7 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin Delegate FOnHandDataReceived ***************************************************
-#define FID_UnrealProjects_ComputerVision_Source_ComputerVision_HandTrackReceiverComponent_h_11_DELEGATE \
+#define FID_Users_MS__Documents_GitHub_Unreal_MediaPipe_Control_ComputerVision_Source_ComputerVision_HandTrackReceiverComponent_h_11_DELEGATE \
 COMPUTERVISION_API void FOnHandDataReceived_DelegateWrapper(const FMulticastScriptDelegate& OnHandDataReceived, bool bIsDetected, float PinchRatio, FVector2D ScreenPosition);
 
 
@@ -27,7 +27,7 @@ COMPUTERVISION_API void FOnHandDataReceived_DelegateWrapper(const FMulticastScri
 struct Z_Construct_UClass_UHandTrackReceiverComponent_Statics;
 COMPUTERVISION_API UClass* Z_Construct_UClass_UHandTrackReceiverComponent_NoRegister();
 
-#define FID_UnrealProjects_ComputerVision_Source_ComputerVision_HandTrackReceiverComponent_h_16_INCLASS_NO_PURE_DECLS \
+#define FID_Users_MS__Documents_GitHub_Unreal_MediaPipe_Control_ComputerVision_Source_ComputerVision_HandTrackReceiverComponent_h_16_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUHandTrackReceiverComponent(); \
 	friend struct ::Z_Construct_UClass_UHandTrackReceiverComponent_Statics; \
@@ -38,7 +38,7 @@ public: \
 	DECLARE_SERIALIZER(UHandTrackReceiverComponent)
 
 
-#define FID_UnrealProjects_ComputerVision_Source_ComputerVision_HandTrackReceiverComponent_h_16_ENHANCED_CONSTRUCTORS \
+#define FID_Users_MS__Documents_GitHub_Unreal_MediaPipe_Control_ComputerVision_Source_ComputerVision_HandTrackReceiverComponent_h_16_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	UHandTrackReceiverComponent(UHandTrackReceiverComponent&&) = delete; \
 	UHandTrackReceiverComponent(const UHandTrackReceiverComponent&) = delete; \
@@ -48,12 +48,12 @@ public: \
 	NO_API virtual ~UHandTrackReceiverComponent();
 
 
-#define FID_UnrealProjects_ComputerVision_Source_ComputerVision_HandTrackReceiverComponent_h_13_PROLOG
-#define FID_UnrealProjects_ComputerVision_Source_ComputerVision_HandTrackReceiverComponent_h_16_GENERATED_BODY \
+#define FID_Users_MS__Documents_GitHub_Unreal_MediaPipe_Control_ComputerVision_Source_ComputerVision_HandTrackReceiverComponent_h_13_PROLOG
+#define FID_Users_MS__Documents_GitHub_Unreal_MediaPipe_Control_ComputerVision_Source_ComputerVision_HandTrackReceiverComponent_h_16_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_UnrealProjects_ComputerVision_Source_ComputerVision_HandTrackReceiverComponent_h_16_INCLASS_NO_PURE_DECLS \
-	FID_UnrealProjects_ComputerVision_Source_ComputerVision_HandTrackReceiverComponent_h_16_ENHANCED_CONSTRUCTORS \
+	FID_Users_MS__Documents_GitHub_Unreal_MediaPipe_Control_ComputerVision_Source_ComputerVision_HandTrackReceiverComponent_h_16_INCLASS_NO_PURE_DECLS \
+	FID_Users_MS__Documents_GitHub_Unreal_MediaPipe_Control_ComputerVision_Source_ComputerVision_HandTrackReceiverComponent_h_16_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -63,6 +63,6 @@ class UHandTrackReceiverComponent;
 // ********** End Class UHandTrackReceiverComponent ************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_UnrealProjects_ComputerVision_Source_ComputerVision_HandTrackReceiverComponent_h
+#define CURRENT_FILE_ID FID_Users_MS__Documents_GitHub_Unreal_MediaPipe_Control_ComputerVision_Source_ComputerVision_HandTrackReceiverComponent_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

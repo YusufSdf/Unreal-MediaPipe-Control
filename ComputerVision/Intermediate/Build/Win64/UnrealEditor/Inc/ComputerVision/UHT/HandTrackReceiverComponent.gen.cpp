@@ -253,15 +253,15 @@ UHandTrackReceiverComponent::~UHandTrackReceiverComponent() {}
 // ********** End Class UHandTrackReceiverComponent ************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_UnrealProjects_ComputerVision_Source_ComputerVision_HandTrackReceiverComponent_h__Script_ComputerVision_Statics
+struct Z_CompiledInDeferFile_FID_Users_MS__Documents_GitHub_Unreal_MediaPipe_Control_ComputerVision_Source_ComputerVision_HandTrackReceiverComponent_h__Script_ComputerVision_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UHandTrackReceiverComponent, UHandTrackReceiverComponent::StaticClass, TEXT("UHandTrackReceiverComponent"), &Z_Registration_Info_UClass_UHandTrackReceiverComponent, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UHandTrackReceiverComponent), 3387974422U) },
 	};
-}; // Z_CompiledInDeferFile_FID_UnrealProjects_ComputerVision_Source_ComputerVision_HandTrackReceiverComponent_h__Script_ComputerVision_Statics 
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UnrealProjects_ComputerVision_Source_ComputerVision_HandTrackReceiverComponent_h__Script_ComputerVision_3884366387{
+}; // Z_CompiledInDeferFile_FID_Users_MS__Documents_GitHub_Unreal_MediaPipe_Control_ComputerVision_Source_ComputerVision_HandTrackReceiverComponent_h__Script_ComputerVision_Statics 
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_MS__Documents_GitHub_Unreal_MediaPipe_Control_ComputerVision_Source_ComputerVision_HandTrackReceiverComponent_h__Script_ComputerVision_3884366387{
 	TEXT("/Script/ComputerVision"),
-	Z_CompiledInDeferFile_FID_UnrealProjects_ComputerVision_Source_ComputerVision_HandTrackReceiverComponent_h__Script_ComputerVision_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_UnrealProjects_ComputerVision_Source_ComputerVision_HandTrackReceiverComponent_h__Script_ComputerVision_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID_Users_MS__Documents_GitHub_Unreal_MediaPipe_Control_ComputerVision_Source_ComputerVision_HandTrackReceiverComponent_h__Script_ComputerVision_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_MS__Documents_GitHub_Unreal_MediaPipe_Control_ComputerVision_Source_ComputerVision_HandTrackReceiverComponent_h__Script_ComputerVision_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0,
 };

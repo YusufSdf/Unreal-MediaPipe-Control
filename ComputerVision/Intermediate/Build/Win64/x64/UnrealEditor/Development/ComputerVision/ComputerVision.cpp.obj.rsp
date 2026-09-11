@@ -1,12 +1,12 @@
-"C:/UnrealProjects/ComputerVision/Source/ComputerVision/ComputerVision.cpp"
-@"C:/UnrealProjects/ComputerVision/Intermediate/Build/Win64/x64/UnrealEditor/Development/ComputerVision/ComputerVision.Shared.rsp"
-/FI"C:/UnrealProjects/ComputerVision/Intermediate/Build/Win64/x64/ComputerVisionEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
-/FI"C:/UnrealProjects/ComputerVision/Intermediate/Build/Win64/x64/UnrealEditor/Development/ComputerVision/Definitions.ComputerVision.h"
-/Yu"C:/UnrealProjects/ComputerVision/Intermediate/Build/Win64/x64/ComputerVisionEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
-/Fp"C:/UnrealProjects/ComputerVision/Intermediate/Build/Win64/x64/ComputerVisionEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.pch"
-/Fo"C:/UnrealProjects/ComputerVision/Intermediate/Build/Win64/x64/UnrealEditor/Development/ComputerVision/ComputerVision.cpp.obj"
-/experimental:log "C:/UnrealProjects/ComputerVision/Intermediate/Build/Win64/x64/UnrealEditor/Development/ComputerVision/ComputerVision.cpp.sarif"
-/sourceDependencies "C:/UnrealProjects/ComputerVision/Intermediate/Build/Win64/x64/UnrealEditor/Development/ComputerVision/ComputerVision.cpp.dep.json"
+"C:/Users/MSİ/Documents/GitHub/Unreal-MediaPipe-Control/ComputerVision/Source/ComputerVision/ComputerVision.cpp"
+@"C:/Users/MSİ/Documents/GitHub/Unreal-MediaPipe-Control/ComputerVision/Intermediate/Build/Win64/x64/UnrealEditor/Development/ComputerVision/ComputerVision.Shared.rsp"
+/FI"C:/Users/MSİ/Documents/GitHub/Unreal-MediaPipe-Control/ComputerVision/Intermediate/Build/Win64/x64/ComputerVisionEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/FI"C:/Users/MSİ/Documents/GitHub/Unreal-MediaPipe-Control/ComputerVision/Intermediate/Build/Win64/x64/UnrealEditor/Development/ComputerVision/Definitions.ComputerVision.h"
+/Yu"C:/Users/MSİ/Documents/GitHub/Unreal-MediaPipe-Control/ComputerVision/Intermediate/Build/Win64/x64/ComputerVisionEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/Fp"C:/Users/MSİ/Documents/GitHub/Unreal-MediaPipe-Control/ComputerVision/Intermediate/Build/Win64/x64/ComputerVisionEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.pch"
+/Fo"C:/Users/MSİ/Documents/GitHub/Unreal-MediaPipe-Control/ComputerVision/Intermediate/Build/Win64/x64/UnrealEditor/Development/ComputerVision/ComputerVision.cpp.obj"
+/experimental:log "C:/Users/MSİ/Documents/GitHub/Unreal-MediaPipe-Control/ComputerVision/Intermediate/Build/Win64/x64/UnrealEditor/Development/ComputerVision/ComputerVision.cpp.sarif"
+/sourceDependencies "C:/Users/MSİ/Documents/GitHub/Unreal-MediaPipe-Control/ComputerVision/Intermediate/Build/Win64/x64/UnrealEditor/Development/ComputerVision/ComputerVision.cpp.dep.json"
 /nologo
 /Oi
 /FC
