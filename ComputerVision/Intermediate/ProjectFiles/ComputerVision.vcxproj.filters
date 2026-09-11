@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\ComputerVision.uproject" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ComputerVision.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ComputerVisionEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Source\ComputerVision">
+      <UniqueIdentifier>{F774D070-3F83-346A-937F-F2967CC2B07C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ComputerVision\ComputerVision.Build.cs">
+      <Filter>Source\ComputerVision</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ComputerVision\ComputerVision.cpp">
+      <Filter>Source\ComputerVision</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ComputerVision\ComputerVision.h">
+      <Filter>Source\ComputerVision</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ComputerVision\HandTrackReceiverComponent.cpp">
+      <Filter>Source\ComputerVision</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ComputerVision\HandTrackReceiverComponent.h">
+      <Filter>Source\ComputerVision</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

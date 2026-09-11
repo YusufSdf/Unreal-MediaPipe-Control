@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ComputerVision",
+			"Path": "..\\Source\\ComputerVision.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ComputerVisionEditor",
+			"Path": "..\\Source\\ComputerVisionEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

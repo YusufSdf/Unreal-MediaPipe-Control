@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ComputerVision.gen.cpp.obj": [
+			"ComputerVision.init.gen.cpp.obj",
+			"HandTrackReceiverComponent.gen.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealprojects\\computervision\\source\\computervision\\computervision.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealprojects\\computervision\\intermediate\\build\\win64\\x64\\computervisioneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unrealprojects\\computervision\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\computervision\\definitions.computervision.h",
+            "c:\\unrealprojects\\computervision\\source\\computervision\\computervision.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
